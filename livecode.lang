@@ -6,9 +6,10 @@
 -->
 <language id="livecode" _name="Livecode" version="2.0" _section="Scripts">
   <metadata>
-    <property name="mimetypes">text/livecode;application/lc;text/rev;text/firefli;application/x-lc-source</property>
-    <property name="globs">*.php;*.php3;*.php4;*.phtml</property>
+    <property name="mimetypes">text/livecode;application/lc;text/rev;application/x-lc-source</property>
+    <property name="globs">*.lc;*.rev;*.phtml</property>
     <property name="line-comment-start">#</property>
+    <property name="line-comment-start">--</property>
     <property name="block-comment-start">/*</property>
     <property name="block-comment-end">*/</property>
   </metadata>
