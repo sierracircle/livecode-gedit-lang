@@ -23,8 +23,3 @@ The langauge file will tell gEdit how to highlight livecode
 - I basically just copied the php langauge file and then cobbled together some livecode things into it. The file needs to be cleaned up and checked for correct syntax
 
 
-
-
-
-
-# livecode-gedit-lang
