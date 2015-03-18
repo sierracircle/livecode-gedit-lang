@@ -547,7 +547,7 @@
     </context>
 
     <context id="livecode-block">
-      <start>&lt;([?](lc)?)</start>
+      <start>&lt;([?](lc|rev)?)</start>
       <end>[?]&gt;</end>
       <include>
         <context sub-pattern="0" where="start" style-ref="keyword"/>
