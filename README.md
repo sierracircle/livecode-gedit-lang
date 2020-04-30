@@ -6,10 +6,10 @@ Langauge File for Livecode on Gedit
 
 ##INSTALL:
 
-1. sudo cp livecode.lang /usr/share/gtksourceview-3.0/language-specs/ 
-2. sudo chmod 644 /usr/share/gtksourceview-3.0/language-specs/livecode.lang
+1. sudo cp livecode.lang /usr/share/gtksourceview-4/language-specs/ 
+2. sudo chmod 644 /usr/share/gtksourceview-4/language-specs/livecode.lang
 
-
+(if you are using an older version of gedit you may need to put it into /usr/share/gtksourceview-3.0/language-specs/ )
 
 
 
